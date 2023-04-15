@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViniciusBayao, a twenty-seven years old brazilian computer science student.
+- 👋 Hi, I’m @ViniciusBayao, a twenty-seven years old Brazilian computer science student.
 - 🌱 I’m currently learning programming and cybersecurity. love technology in general and games.
 
 <!---
